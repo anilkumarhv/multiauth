@@ -5,5 +5,6 @@ public enum AuthProvider {
     local,
     google,
     facebook,
-    github
+    github,
+    gmail
 }
