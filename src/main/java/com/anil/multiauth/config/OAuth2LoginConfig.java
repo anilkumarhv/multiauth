@@ -10,7 +10,6 @@ import org.springframework.security.oauth2.client.registration.InMemoryClientReg
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
 
 @Configuration
 public class OAuth2LoginConfig {
